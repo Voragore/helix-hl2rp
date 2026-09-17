@@ -1,5 +1,5 @@
-CLASS.name = "Metropolice Scanner"
-CLASS.description = "A metropolice scanner, it utilises Combine technology."
+CLASS.name = "Dispatch Scanner"
+CLASS.description = "A dispatch scanner, it utilises Combine technology."
 CLASS.faction = FACTION_MPF
 
 function CLASS:CanSwitchTo(client)
